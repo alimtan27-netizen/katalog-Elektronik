@@ -1,0 +1,6 @@
+{
+  "name": "Katalog Elektronik",
+  "description": "Aplikasi marketplace jual beli handphone, laptop, dan barang elektronik dengan koordinasi admin (WhatsApp 087768692417), transfer rekening manual, unggah foto hingga 50MB, dan notifikasi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

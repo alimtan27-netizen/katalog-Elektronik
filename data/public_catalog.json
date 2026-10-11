@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "title": "iPhone 15 Pro Max 256GB Natural Titanium",
+      "category": "Ponsel & Tablet",
+      "price": 19800000,
+      "originalPrice": 22499000,
+      "condition": "Like New",
+      "sellerName": "iStore Gadget Jakarta",
+      "sellerPhone": "081298834120",
+      "location": "Jakarta Selatan",
+      "description": "iPhone 15 Pro Max garansi resmi iBox Indonesia. Baterai health 98%, cycle count rendah. Kelengkapan fullset original box, kabel USB-C braided bawaan. Tidak ada lecet atau dent.",
+      "specs": [
+        "Chipset A17 Pro 3nm Bionic",
+        "Layar 6.7 inch Super Retina XDR ProMotion 120Hz",
+        "Penyimpanan 256GB NVMe",
+        "Kamera Utama 48MP + 5x Telephoto",
+        "Bodi Titanium Grade 5 Aerospace"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1695048133142-1a20484d2569?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "createdAt": 1791717020407,
+      "isVerifiedByAdmin": true,
+      "status": "Tersedia",
+      "stock": 5
+    },
+    {
+      "id": "prod-2",
+      "title": "MacBook Pro 14 M3 Pro 18GB / 512GB Space Black",
+      "category": "Laptop & Komputer",
+      "price": 27500000,
+      "originalPrice": 31999000,
+      "condition": "Bekas Mulus",
+      "sellerName": "MacBook Corner Bandung",
+      "sellerPhone": "085721345678",
+      "location": "Bandung",
+      "description": "MacBook Pro 14 M3 Pro warna Space Black garansi aktif sampai Desember 2026. CC baterai 24, pemakaian hanya untuk desain ringan. Layar mulus tanpa white spot, keyboard empuk.",
+      "specs": [
+        "Apple M3 Pro (11-core CPU, 14-core GPU)",
+        "RAM Unified 18 GB",
+        "SSD 512 GB Super Cepat",
+        "Liquid Retina XDR Display 120Hz ProMotion",
+        "Port MagSafe 3, 3x Thunderbolt 4, HDMI, SD Card"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "createdAt": 1791706220407,
+      "isVerifiedByAdmin": true,
+      "status": "Tersedia",
+      "stock": 3
+    },
+    {
+      "id": "prod-3",
+      "title": "ASUS ROG Zephyrus G16 OLED RTX 4070 Intel Ultra 9",
+      "category": "Laptop & Komputer",
+      "price": 32000000,
+      "originalPrice": 36999000,
+      "condition": "Like New",
+      "sellerName": "ROG Station Surabaya",
+      "sellerPhone": "081334567890",
+      "location": "Surabaya",
+      "description": "Laptop gaming ultra tipis premium layar 2.5K OLED 240Hz ROG Nebula. Bodi aluminium CNC utuh warna Platinum White. Performa monster untuk editing video dan gaming AAA.",
+      "specs": [
+        "Intel Core Ultra 9 185H with NPU AI",
+        "NVIDIA GeForce RTX 4070 8GB GDDR6",
+        "RAM 32GB LPDDR5X 7467MHz",
+        "SSD 1TB PCIe 4.0 NVMe",
+        "Layar 16\" ROG Nebula OLED 240Hz 0.2ms"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "createdAt": 1791681020407,
+      "isVerifiedByAdmin": true,
+      "status": "Tersedia",
+      "stock": 2
+    },
+    {
+      "id": "prod-4",
+      "title": "Sony Alpha 7 IV Mirrorless Body Only Garansi Resmi",
+      "category": "Kamera & Audio",
+      "price": 28200000,
+      "originalPrice": 33499000,
+      "condition": "Bekas Mulus",
+      "sellerName": "Kamera Kita Jogja",
+      "sellerPhone": "081778901234",
+      "location": "Yogyakarta",
+      "description": "Kamera hybrid foto & video terbaik Sony A7 IV. Shutter count baru 3.400 jepretan, sensor kinclong tanpa jamur atau debu. Karet grip masih kencang semua. Lengkap dus buku charger.",
+      "specs": [
+        "Sensor Full-Frame Exmor R BSI CMOS 33MP",
+        "Perekaman Video 4K 60p 10-Bit 4:2:2 & S-Cinetone",
+        "Real-time Eye AF Manusia, Hewan, dan Burung",
+        "5-Axis SteadyShot Inside Image Stabilization",
+        "Dual Slot SD UHS-II / CFexpress Type A"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1000&q=80"
+      ],
+      "createdAt": 1791637820407,
+      "isVerifiedByAdmin": true,
+      "status": "Tersedia",
+      "stock": 4
+    },
+    {
+      "id": "prod-5",
+      "title": "Samsung Galaxy S24 Ultra 5G 12GB / 512GB Titanium Gray",
+      "category": "Ponsel & Tablet",
+      "price": 17900000,
+      "originalPrice": 21999000,
+      "condition": "Baru",
+      "sellerName": "Sentral Gadget Medan",
+      "sellerPhone": "082199887766",
+      "location": "Medan",
+      "description": "Unit baru BNOB (Brand New Open Box) hanya cek sinyal dan aktivasi garansi SEIN. Galaxy AI aktif selamanya, S-Pen mulus, kamera zoom 100x jernih luar biasa.",
+      "specs": [
+        "Snapdragon 8 Gen 3 for Galaxy",
+        "Layar 6.8 inch Dynamic AMOLED 2X Flat Gorilla Armor",
+        "RAM 12GB + Storage 512GB",
+        "Kamera Utama 200MP + 50MP Periscope Telephoto",
+        "Baterai 5000mAh Super Fast Charging 45W"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=1200&q=80"
+      ],
+      "createdAt": 1791594620407,
+      "isVerifiedByAdmin": true,
+      "status": "Tersedia",
+      "stock": 8
+    }
+  ],
+  "sellers": [
+    {
+      "storeName": "Toko Budi Sukses",
+      "phone": "081234567899",
+      "city": "Jakarta",
+      "joinedAt": 1791724225285
+    }
+  ],
+  "orders": [],
+  "chatMessages": [],
+  "updatedAt": 1791724229249
+}

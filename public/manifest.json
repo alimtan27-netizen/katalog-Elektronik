@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Katalog Elektronik - GadgetHub",
+  "short_name": "GadgetHub",
+  "description": "Aplikasi marketplace jual beli handphone, laptop, dan barang elektronik dengan koordinasi admin dan pembayaran otomatis.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
